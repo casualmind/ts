@@ -1,0 +1,2666 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:07:01] 
+[07:07:01] Server Plugins
+[07:07:01] --------------
+[07:07:01]  Loading plugin: crashdetect
+[07:07:01]   CrashDetect v4.18.1 is OK.
+[07:07:01]   Loaded.
+[07:07:01]  Loading plugin: sscanf
+[07:07:01] 
+
+[07:07:01]  ===============================
+
+[07:07:01]       sscanf plugin loaded.     
+
+[07:07:01]          Version:  2.8.1        
+
+[07:07:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:07:01]  ===============================
+
+[07:07:01]   Loaded.
+[07:07:01]  Loading plugin: streamer
+[07:07:01] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[07:07:01]   Loaded.
+[07:07:01]  Loading plugin: filemanager
+[07:07:01] ******************
+[07:07:01] ** FILE MANAGER **
+[07:07:01] **    Loaded    **
+[07:07:01] ** Version 1.5 **
+[07:07:01] ******************
+[07:07:01]   Loaded.
+[07:07:01]  Loaded 4 plugins.
+
+[07:07:01] 
+[07:07:01] Filterscripts
+[07:07:01] ---------------
+[07:07:01]   Loading filterscript 'tstudio.amx'...
+[07:07:03]  
+[07:07:03]  
+[07:07:03]  
+[07:07:03]  ======================================= 
+[07:07:03]  |                                     | 
+[07:07:03]  |        YSI version 3.09.0684        | 
+[07:07:03]  |        By Alex "Y_Less" Cole        | 
+[07:07:03]  |                                     | 
+[07:07:03]  ======================================= 
+[07:07:03]  
+[07:07:03]  
+[07:07:03]  
+[07:07:03] LOADED 9065 texture definitions
+[07:07:04] ----------------------------------------------
+[07:07:04] ----Texture Studio By [uL]Pottus and Crayder--
+[07:07:04] ------------------------------------Loaded----
+[07:07:04]   Loading filterscript 'fsdebug.amx'...
+[07:07:04] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[07:07:04]   * By Simon Campbell *
+  *********************
+[07:07:04]   * Version: 0.5d      *
+  *********************
+[07:07:04]   * -- LOADED         *
+  *********************
+
+[07:07:04]   Loaded 2 filterscripts.
+
+[07:07:04] 
+/*-----------------------------------*\
+[07:07:04] |*=====[TS Base GameMode Loaded]=====*|
+[07:07:04] \*-----------------------------------*/
+
+[07:07:04] Number of vehicle models: 0
+[07:08:11] [connection] 127.0.0.1:50669 requests connection cookie.
+[07:08:12] [connection] incoming connection: 127.0.0.1:50669 id: 0
+[07:08:13] [connection] incoming connection: 127.0.0.1:50670 id: 0
+[07:08:14] [join] casualmind has joined the server (0:127.0.0.1)
+[07:08:18]     /thelp missing command: mtsearch
+[07:08:18] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[07:17:44] RCON (In-Game): Player #0 (casualmind) has logged in.
+[07:17:46] RCON (In-Game): Player [casualmind] sent command: gmx
+[07:18:01] 
+/*-----------------------------------*\
+[07:18:01] |*=====[TS Base GameMode Loaded]=====*|
+[07:18:01] \*-----------------------------------*/
+
+[07:18:01] Number of vehicle models: 0
+[07:18:01]     /thelp missing command: mtsearch
+[07:18:01] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:28] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:29] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:25:39] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+[07:36:50] [part] casualmind has left the server (0:1)
+[08:17:25] [connection] 127.0.0.1:63737 requests connection cookie.
+[08:17:26] [connection] incoming connection: 127.0.0.1:63737 id: 0
+[08:17:41] [connection] incoming connection: 127.0.0.1:63738 id: 0
+[08:17:51] [connection] incoming connection: 127.0.0.1:63739 id: 0
+[08:18:02] [connection] incoming connection: 127.0.0.1:51555 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:18:30] 
+[08:18:30] Server Plugins
+[08:18:30] --------------
+[08:18:30]  Loading plugin: crashdetect
+[08:18:31]   CrashDetect v4.18.1 is OK.
+[08:18:31]   Loaded.
+[08:18:31]  Loading plugin: sscanf
+[08:18:31] 
+
+[08:18:31]  ===============================
+
+[08:18:31]       sscanf plugin loaded.     
+
+[08:18:31]          Version:  2.8.1        
+
+[08:18:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:18:31]  ===============================
+
+[08:18:31]   Loaded.
+[08:18:31]  Loading plugin: streamer
+[08:18:31] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[08:18:31]   Loaded.
+[08:18:31]  Loading plugin: filemanager
+[08:18:32] ******************
+[08:18:32] ** FILE MANAGER **
+[08:18:32] **    Loaded    **
+[08:18:32] ** Version 1.5 **
+[08:18:32] ******************
+[08:18:32]   Loaded.
+[08:18:32]  Loaded 4 plugins.
+
+[08:18:32] 
+[08:18:32] Filterscripts
+[08:18:32] ---------------
+[08:18:32]   Loading filterscript 'tstudio.amx'...
+[08:18:34]  
+[08:18:34]  
+[08:18:34]  
+[08:18:34]  ======================================= 
+[08:18:34]  |                                     | 
+[08:18:34]  |        YSI version 3.09.0684        | 
+[08:18:34]  |        By Alex "Y_Less" Cole        | 
+[08:18:34]  |                                     | 
+[08:18:34]  ======================================= 
+[08:18:34]  
+[08:18:34]  
+[08:18:34]  
+[08:18:35] LOADED 9065 texture definitions
+[08:18:35] ----------------------------------------------
+[08:18:35] ----Texture Studio By [uL]Pottus and Crayder--
+[08:18:35] ------------------------------------Loaded----
+[08:18:35]   Loading filterscript 'fsdebug.amx'...
+[08:18:35] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[08:18:35]   * By Simon Campbell *
+  *********************
+[08:18:35]   * Version: 0.5d      *
+  *********************
+[08:18:35]   * -- LOADED         *
+  *********************
+
+[08:18:35]   Loaded 2 filterscripts.
+
+[08:18:36] 
+/*-----------------------------------*\
+[08:18:36] |*=====[TS Base GameMode Loaded]=====*|
+[08:18:36] \*-----------------------------------*/
+
+[08:18:36] Number of vehicle models: 0
+[08:18:53] [connection] 127.0.0.1:63093 requests connection cookie.
+[08:18:54] [connection] incoming connection: 127.0.0.1:63093 id: 0
+[08:19:04] [connection] incoming connection: 127.0.0.1:51503 id: 0
+[08:19:20] [connection] incoming connection: 127.0.0.1:58383 id: 0
+[08:19:20] [connection] incoming connection: 127.0.0.1:58384 id: 0
+[08:19:20] [join] casualmind has joined the server (0:127.0.0.1)
+[08:19:20]     /thelp missing command: mtsearch
+[08:19:20] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:23:50] [part] casualmind has left the server (0:1)
+[08:25:44] [connection] 127.0.0.1:52690 requests connection cookie.
+[08:25:45] [connection] incoming connection: 127.0.0.1:52690 id: 0
+[08:25:55] [connection] incoming connection: 127.0.0.1:52691 id: 0
+[08:26:06] [connection] incoming connection: 127.0.0.1:52692 id: 0
+[08:26:06] [connection] incoming connection: 127.0.0.1:52693 id: 0
+[08:26:06] [join] casualmind has joined the server (0:127.0.0.1)
+[08:26:06]     /thelp missing command: mtsearch
+[08:26:06] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:29:32] [part] casualmind has left the server (0:1)
+[08:34:43] [connection] 127.0.0.1:56669 requests connection cookie.
+[08:34:44] [connection] incoming connection: 127.0.0.1:56669 id: 0
+[08:34:44] [connection] incoming connection: 127.0.0.1:65438 id: 0
+[08:34:45] [join] casualmind has joined the server (0:127.0.0.1)
+[08:34:45]     /thelp missing command: mtsearch
+[08:34:45] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:35:48] RCON (In-Game): Player #0 (casualmind) has logged in.
+[08:35:51] RCON (In-Game): Player [casualmind] sent command: gmx
+[08:35:52] [debug] Server crashed due to an unknown error
+[08:35:53] [debug] Native backtrace:
+[08:35:53] [debug] #0 004714ec in ?? () from samp-server.exe
+[08:35:53] [debug] #1 63aa318d in ?? () from plugins\streamer.DLL
+[08:35:53] [debug] #2 63a9f80e in ?? () from plugins\streamer.DLL
+[08:35:53] [debug] #3 63a8c69e in ?? () from plugins\streamer.DLL
+[08:35:53] [debug] #4 00469a66 in ?? () from samp-server.exe
+[08:35:53] [debug] Registers:
+[08:35:53] [debug] EAX: 00000000 EBX: 01f06d48 ECX: 00909b70 EDX: 00000000
+[08:35:53] [debug] ESI: 01f0b1e4 EDI: 0014fdb8 EBP: 00000000 ESP: 0014fe24
+[08:35:53] [debug] EIP: 00469a66 EFLAGS: 00010287
+[08:35:53] [debug] Stack:
+[08:35:53] [debug] ESP+00000000: 77c8d1a0 77c8d150 0048d4db 00000000
+[08:35:53] [debug] ESP+00000020: 00010101 0000000a 00001e61 000001ec
+[08:35:53] [debug] ESP+00000040: 00003531 004c4020 004c401c 0033b000
+[08:35:53] [debug] ESP+00000060: 0049d208 004ba2f8 ffffffff 0049b4a1
+[08:35:53] [debug] ESP+00000080: ffffffff 0049cca6 00000001 00901428
+[08:35:53] [debug] ESP+000000a0: 000023f0 00000002 00000000 00000000
+[08:35:53] [debug] ESP+000000c0: 00000000 00000000 00000000 00000000
+[08:35:53] [debug] ESP+000000e0: 00000000 00000000 00000000 00000000
+[08:35:53] [debug] ESP+00000100: 00000000 00000000 00000000 00000000
+[08:35:53] [debug] ESP+00000120: 00000000 0049cb52 0049cb3a 0049cb3a
+[08:35:53] [debug] ESP+00000140: 00000000 0014feb8 0014f92c 0014ffcc
+[08:35:53] [debug] ESP+00000160: 77c7a424 0033b000 77c7a400 b8e2470f
+[08:35:53] [debug] ESP+00000180: 00000000 00000000 0033b000 00000000
+[08:35:53] [debug] ESP+000001a0: 0014ffa0 00000000 0014ffe4 77dc68e0
+[08:35:53] [debug] ESP+000001c0: ffffffff 77dd6753 00000000 00000000
+[08:35:53] [debug] ESP+000001e0: 00000020 00000001 0000302c 000000dc
+[08:35:53] [debug] ESP+00000200: 00000001 00000007 00000034 0000017c
+[08:35:53] [debug] ESP+00000220: 00000000 00000000 00000002 1a26ef4e
+[08:35:53] [debug] ESP+00000240: 00000000 f33271ba 0000053c 0000004a
+[08:35:53] [debug] ESP+00000260: 000008cc 00000032 00000900 000002fa
+[08:35:53] [debug] ESP+00000280: 00000c40 00000330 00000000 38505fc8
+[08:35:53] [debug] ESP+000002a0: 00000000 b1280544 00001334 00000056
+[08:35:53] [debug] ESP+000002c0: 000000ec 00000002 00000001 0000017c
+[08:35:53] [debug] ESP+000002e0: 000004b4 00000001 00000003 00001c0c
+[08:35:53] [debug] ESP+00000300: 00000314 00000002 00000005 00002dac
+[08:35:53] [debug] ESP+00000320: 000000cc 00000002 00000007 00002f10
+[08:35:53] [debug] ESP+00000340: 00000028 00000002 0000000b 00003028
+[08:35:53] [debug] ESP+00000360: 00000001 00000001 00000001 00000006
+[08:35:53] [debug] ESP+00000380: 0000005e 0000005e 00000000 00000000
+[08:35:53] [debug] ESP+000003a0: 00000000 00000000 00000000 00000002
+[08:35:53] [debug] ESP+000003c0: 0057005c 006e0069 006f0064 00730077
+[08:35:53] [debug] ESP+000003e0: 00000000 1a26ef4e 0000011c 00000044
+[08:35:53] [debug] Loaded modules:
+[08:35:53] [debug] 00400000 - 00519000 samp-server.exe
+[08:35:53] [debug] 77d30000 - 77ebf000 ntdll.dll
+[08:35:53] [debug] 77c60000 - 77cf8000 KERNEL32.DLL
+[08:35:53] [debug] 74fc0000 - 751a6000 KERNELBASE.dll
+[08:35:53] [debug] 76360000 - 776aa000 SHELL32.dll
+[08:35:53] [debug] 75c60000 - 75d1f000 msvcrt.dll
+[08:35:53] [debug] 754c0000 - 754f9000 cfgmgr32.dll
+[08:35:53] [debug] 747e0000 - 748fd000 ucrtbase.dll
+[08:35:53] [debug] 75d30000 - 75db8000 shcore.dll
+[08:35:53] [debug] 75b90000 - 75c57000 RPCRT4.dll
+[08:35:53] [debug] 77890000 - 77aec000 combase.dll
+[08:35:53] [debug] 74f60000 - 74fb8000 bcryptPrimitives.dll
+[08:35:53] [debug] 74980000 - 74f3a000 windows.storage.dll
+[08:35:53] [debug] 75dc0000 - 75e38000 advapi32.dll
+[08:35:53] [debug] 776c0000 - 77704000 sechost.dll
+[08:35:53] [debug] 77af0000 - 77b35000 shlwapi.dll
+[08:35:53] [debug] 77b60000 - 77b82000 GDI32.dll
+[08:35:53] [debug] 751b0000 - 75317000 gdi32full.dll
+[08:35:53] [debug] 74900000 - 7497d000 msvcp_win.dll
+[08:35:53] [debug] 77710000 - 77884000 USER32.dll
+[08:35:53] [debug] 74f40000 - 74f5b000 win32u.dll
+[08:35:53] [debug] 74740000 - 7474f000 kernel.appcore.dll
+[08:35:53] [debug] 747c0000 - 747d8000 profapi.dll
+[08:35:53] [debug] 74760000 - 747a5000 powrprof.dll
+[08:35:53] [debug] 747b0000 - 747b8000 FLTLIB.DLL
+[08:35:53] [debug] 648c0000 - 648c8000 WSOCK32.dll
+[08:35:53] [debug] 77bf0000 - 77c57000 WS2_32.dll
+[08:35:53] [debug] 72f10000 - 72f34000 WINMM.dll
+[08:35:53] [debug] 72ee0000 - 72f03000 WINMMBASE.dll
+[08:35:53] [debug] 77d00000 - 77d26000 IMM32.DLL
+[08:35:53] [debug] 62290000 - 622e0000 crashdetect.DLL
+[08:35:53] [debug] 54260000 - 5431f000 MSVCR100.dll
+[08:35:53] [debug] 5b140000 - 5b1a9000 MSVCP100.dll
+[08:35:53] [debug] 10000000 - 1000d000 sscanf.DLL
+[08:35:53] [debug] 63a80000 - 63abf000 streamer.DLL
+[08:35:53] [debug] 001d0000 - 001fc000 filemanager.DLL
+[08:35:53] [debug] 50df0000 - 50e8c000 MSVCP100D.dll
+[08:35:53] [debug] 50c70000 - 50de2000 MSVCR100D.dll
+[08:35:53] [debug] 740d0000 - 74128000 mswsock.dll
+[08:35:53] [debug] 5b100000 - 5b111000 napinsp.dll
+[08:35:53] [debug] 57b10000 - 57b26000 pnrpnsp.dll
+[08:35:53] [debug] 71850000 - 71863000 NLAapi.dll
+[08:35:53] [debug] 5beb0000 - 5bebc000 winrnr.dll
+[08:35:53] [debug] 73ef0000 - 73f7e000 DNSAPI.dll
+[08:35:53] [debug] 776b0000 - 776b7000 NSI.dll
+[08:35:53] [debug] 73ec0000 - 73ef0000 IPHLPAPI.DLL
+[08:35:53] [debug] 6d570000 - 6d5bf000 fwpuclnt.dll
+[08:35:53] [debug] 74350000 - 7436b000 bcrypt.dll
+[08:35:53] [debug] 6ab30000 - 6ab38000 rasadhlp.dll
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:36:37] 
+[08:36:37] Server Plugins
+[08:36:37] --------------
+[08:36:37]  Loading plugin: crashdetect
+[08:36:37]   CrashDetect v4.18.1 is OK.
+[08:36:37]   Loaded.
+[08:36:37]  Loading plugin: sscanf
+[08:36:37] 
+
+[08:36:37]  ===============================
+
+[08:36:37]       sscanf plugin loaded.     
+
+[08:36:37]          Version:  2.8.1        
+
+[08:36:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:36:37]  ===============================
+
+[08:36:37]   Loaded.
+[08:36:37]  Loading plugin: streamer
+[08:36:37] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[08:36:37]   Loaded.
+[08:36:37]  Loading plugin: filemanager
+[08:36:37] ******************
+[08:36:37] ** FILE MANAGER **
+[08:36:37] **    Loaded    **
+[08:36:37] ** Version 1.5 **
+[08:36:37] ******************
+[08:36:38]   Loaded.
+[08:36:38]  Loaded 4 plugins.
+
+[08:36:38] 
+[08:36:38] Filterscripts
+[08:36:38] ---------------
+[08:36:38]   Loading filterscript 'tstudio.amx'...
+[08:36:38]  
+[08:36:38]  
+[08:36:38]  
+[08:36:38]  ======================================= 
+[08:36:38]  |                                     | 
+[08:36:38]  |        YSI version 3.09.0684        | 
+[08:36:38]  |        By Alex "Y_Less" Cole        | 
+[08:36:38]  |                                     | 
+[08:36:38]  ======================================= 
+[08:36:38]  
+[08:36:38]  
+[08:36:39]  
+[08:36:39] LOADED 9065 texture definitions
+[08:36:39] ----------------------------------------------
+[08:36:39] ----Texture Studio By [uL]Pottus and Crayder--
+[08:36:39] ------------------------------------Loaded----
+[08:36:39]   Loading filterscript 'fsdebug.amx'...
+[08:36:39] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[08:36:39]   * By Simon Campbell *
+  *********************
+[08:36:39]   * Version: 0.5d      *
+  *********************
+[08:36:39]   * -- LOADED         *
+  *********************
+
+[08:36:39]   Loaded 2 filterscripts.
+
+[08:36:39] 
+/*-----------------------------------*\
+[08:36:39] |*=====[TS Base GameMode Loaded]=====*|
+[08:36:39] \*-----------------------------------*/
+
+[08:36:39] Number of vehicle models: 0
+[08:36:52] [connection] 127.0.0.1:64120 requests connection cookie.
+[08:36:53] [connection] incoming connection: 127.0.0.1:64120 id: 0
+[08:37:03] [connection] incoming connection: 127.0.0.1:64121 id: 0
+[08:37:14] [connection] incoming connection: 127.0.0.1:64122 id: 0
+[08:37:25] [connection] incoming connection: 127.0.0.1:64123 id: 0
+[08:37:25] [connection] incoming connection: 127.0.0.1:64124 id: 0
+[08:37:26] [join] casualmind has joined the server (0:127.0.0.1)
+[08:37:26]     /thelp missing command: mtsearch
+[08:37:26] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:48:03] [part] casualmind has left the server (0:1)
+[08:52:27] [connection] 127.0.0.1:60758 requests connection cookie.
+[08:52:28] [connection] incoming connection: 127.0.0.1:60758 id: 0
+[08:52:38] [connection] incoming connection: 127.0.0.1:60760 id: 0
+[08:52:39] [connection] incoming connection: 127.0.0.1:60761 id: 0
+[08:52:39] [join] casualmind has joined the server (0:127.0.0.1)
+[08:52:39]     /thelp missing command: mtsearch
+[08:52:39] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[09:57:23] [part] casualmind has left the server (0:1)
+[10:23:40] [connection] 127.0.0.1:53776 requests connection cookie.
+[10:23:41] [connection] incoming connection: 127.0.0.1:53776 id: 0
+[10:23:52] [connection] incoming connection: 127.0.0.1:53777 id: 0
+[10:23:52] [connection] incoming connection: 127.0.0.1:53778 id: 0
+[10:23:53] [join] casualmind has joined the server (0:127.0.0.1)
+[10:23:53]     /thelp missing command: mtsearch
+[10:23:53] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[10:42:27] [part] casualmind has left the server (0:1)
+[11:01:02] [connection] 127.0.0.1:64663 requests connection cookie.
+[11:01:03] [connection] incoming connection: 127.0.0.1:64663 id: 0
+[11:01:13] [connection] incoming connection: 127.0.0.1:60272 id: 0
+[11:01:14] [connection] incoming connection: 127.0.0.1:60273 id: 0
+[11:01:14] [join] casualmind has joined the server (0:127.0.0.1)
+[11:01:14]     /thelp missing command: mtsearch
+[11:01:14] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[11:04:40] [part] casualmind has left the server (0:1)
+[11:09:11] [connection] 127.0.0.1:58283 requests connection cookie.
+[11:09:12] [connection] incoming connection: 127.0.0.1:58283 id: 0
+[11:09:22] [connection] incoming connection: 127.0.0.1:59221 id: 0
+[11:09:32] [connection] incoming connection: 127.0.0.1:59222 id: 0
+[11:09:33] [connection] incoming connection: 127.0.0.1:59223 id: 0
+[11:09:33] [join] casualmind has joined the server (0:127.0.0.1)
+[11:09:33]     /thelp missing command: mtsearch
+[11:09:33] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[11:20:05] [part] casualmind has left the server (0:1)
+[11:20:33] [connection] 127.0.0.1:54304 requests connection cookie.
+[11:20:34] [connection] incoming connection: 127.0.0.1:54304 id: 0
+[11:20:45] [connection] incoming connection: 127.0.0.1:54306 id: 0
+[11:20:46] [connection] incoming connection: 127.0.0.1:54307 id: 0
+[11:20:46] [join] casualmind has joined the server (0:127.0.0.1)
+[11:20:46]     /thelp missing command: mtsearch
+[11:20:46] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[11:48:14] [part] casualmind has left the server (0:1)
+[12:01:41] [connection] 127.0.0.1:57653 requests connection cookie.
+[12:01:42] [connection] incoming connection: 127.0.0.1:57653 id: 0
+[12:01:42] [connection] incoming connection: 127.0.0.1:57654 id: 0
+[12:01:43] [join] casualmind has joined the server (0:127.0.0.1)
+[12:01:43]     /thelp missing command: mtsearch
+[12:01:43] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[12:04:56] [part] casualmind has left the server (0:1)
+[12:06:15] [connection] 127.0.0.1:59517 requests connection cookie.
+[12:06:16] [connection] incoming connection: 127.0.0.1:59517 id: 0
+[12:06:26] [connection] incoming connection: 127.0.0.1:49397 id: 0
+[12:06:42] [connection] 127.0.0.1:49399 requests connection cookie.
+[12:06:43] [connection] incoming connection: 127.0.0.1:49399 id: 0
+[12:06:53] [connection] incoming connection: 127.0.0.1:63913 id: 0
+[12:07:04] [connection] incoming connection: 127.0.0.1:63915 id: 0
+[12:07:27] [connection] 127.0.0.1:59752 requests connection cookie.
+[12:07:28] [connection] incoming connection: 127.0.0.1:59752 id: 0
+[12:07:38] [connection] incoming connection: 127.0.0.1:59753 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:09:17] 
+[12:09:17] Server Plugins
+[12:09:17] --------------
+[12:09:17]  Loading plugin: crashdetect
+[12:09:17]   CrashDetect v4.18.1 is OK.
+[12:09:17]   Loaded.
+[12:09:17]  Loading plugin: sscanf
+[12:09:17] 
+
+[12:09:17]  ===============================
+
+[12:09:17]       sscanf plugin loaded.     
+
+[12:09:17]          Version:  2.8.1        
+
+[12:09:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:09:17]  ===============================
+
+[12:09:17]   Loaded.
+[12:09:17]  Loading plugin: streamer
+[12:09:17] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[12:09:17]   Loaded.
+[12:09:17]  Loading plugin: filemanager
+[12:09:17] ******************
+[12:09:17] ** FILE MANAGER **
+[12:09:17] **    Loaded    **
+[12:09:17] ** Version 1.5 **
+[12:09:17] ******************
+[12:09:17]   Loaded.
+[12:09:17]  Loaded 4 plugins.
+
+[12:09:17] 
+[12:09:17] Filterscripts
+[12:09:17] ---------------
+[12:09:17]   Loading filterscript 'tstudio.amx'...
+[12:09:18]  
+[12:09:18]  
+[12:09:18]  
+[12:09:18]  ======================================= 
+[12:09:18]  |                                     | 
+[12:09:18]  |        YSI version 3.09.0684        | 
+[12:09:18]  |        By Alex "Y_Less" Cole        | 
+[12:09:18]  |                                     | 
+[12:09:18]  ======================================= 
+[12:09:18]  
+[12:09:18]  
+[12:09:18]  
+[12:09:19] LOADED 9065 texture definitions
+[12:09:19] ----------------------------------------------
+[12:09:19] ----Texture Studio By [uL]Pottus and Crayder--
+[12:09:19] ------------------------------------Loaded----
+[12:09:19]   Loading filterscript 'fsdebug.amx'...
+[12:09:19] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[12:09:19]   * By Simon Campbell *
+  *********************
+[12:09:19]   * Version: 0.5d      *
+  *********************
+[12:09:19]   * -- LOADED         *
+  *********************
+
+[12:09:19]   Loaded 2 filterscripts.
+
+[12:09:19] 
+/*-----------------------------------*\
+[12:09:19] |*=====[TS Base GameMode Loaded]=====*|
+[12:09:19] \*-----------------------------------*/
+
+[12:09:19] Number of vehicle models: 0
+[12:10:05] [connection] 127.0.0.1:55577 requests connection cookie.
+[12:10:06] [connection] incoming connection: 127.0.0.1:55577 id: 0
+[12:10:17] [connection] incoming connection: 127.0.0.1:55578 id: 0
+[12:10:17] [connection] incoming connection: 127.0.0.1:55579 id: 0
+[12:10:17] [join] casualmind has joined the server (0:127.0.0.1)
+[12:10:17]     /thelp missing command: mtsearch
+[12:10:17] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[12:16:23] RCON (In-Game): Player #0 (casualmind) has logged in.
+[12:21:22] [part] casualmind has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:37:17] 
+[18:37:17] Server Plugins
+[18:37:17] --------------
+[18:37:17]  Loading plugin: crashdetect
+[18:37:19]   CrashDetect v4.18.1 is OK.
+[18:37:19]   Loaded.
+[18:37:19]  Loading plugin: sscanf
+[18:37:19] 
+
+[18:37:19]  ===============================
+
+[18:37:19]       sscanf plugin loaded.     
+
+[18:37:19]          Version:  2.8.1        
+
+[18:37:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:37:19]  ===============================
+
+[18:37:19]   Loaded.
+[18:37:19]  Loading plugin: streamer
+[18:37:19] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[18:37:19]   Loaded.
+[18:37:19]  Loading plugin: filemanager
+[18:37:21] ******************
+[18:37:21] ** FILE MANAGER **
+[18:37:21] **    Loaded    **
+[18:37:21] ** Version 1.5 **
+[18:37:21] ******************
+[18:37:21]   Loaded.
+[18:37:21]  Loaded 4 plugins.
+
+[18:37:21] 
+[18:37:21] Filterscripts
+[18:37:21] ---------------
+[18:37:21]   Loading filterscript 'tstudio.amx'...
+[18:37:24]  
+[18:37:24]  
+[18:37:24]  
+[18:37:24]  ======================================= 
+[18:37:24]  |                                     | 
+[18:37:24]  |        YSI version 3.09.0684        | 
+[18:37:24]  |        By Alex "Y_Less" Cole        | 
+[18:37:24]  |                                     | 
+[18:37:24]  ======================================= 
+[18:37:24]  
+[18:37:24]  
+[18:37:24]  
+[18:37:24] LOADED 9065 texture definitions
+[18:37:24] ----------------------------------------------
+[18:37:24] ----Texture Studio By [uL]Pottus and Crayder--
+[18:37:24] ------------------------------------Loaded----
+[18:37:24]   Loading filterscript 'fsdebug.amx'...
+[18:37:25] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[18:37:25]   * By Simon Campbell *
+  *********************
+[18:37:25]   * Version: 0.5d      *
+  *********************
+[18:37:25]   * -- LOADED         *
+  *********************
+
+[18:37:25]   Loaded 2 filterscripts.
+
+[18:37:25] 
+/*-----------------------------------*\
+[18:37:25] |*=====[TS Base GameMode Loaded]=====*|
+[18:37:25] \*-----------------------------------*/
+
+[18:37:25] Number of vehicle models: 0
+[18:47:44] [connection] 127.0.0.1:50089 requests connection cookie.
+[18:47:46] [connection] incoming connection: 127.0.0.1:50089 id: 0
+[18:47:56] [connection] incoming connection: 127.0.0.1:50090 id: 0
+[18:48:12] [connection] incoming connection: 127.0.0.1:50092 id: 0
+[19:13:02] [connection] 127.0.0.1:56571 requests connection cookie.
+[19:13:03] [connection] incoming connection: 127.0.0.1:56571 id: 0
+[19:13:04] [connection] incoming connection: 127.0.0.1:56572 id: 0
+[19:13:04] [join] casualmind has joined the server (0:127.0.0.1)
+[19:13:04]     /thelp missing command: mtsearch
+[19:13:04] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[19:48:50] [part] casualmind has left the server (0:1)
+[06:01:34] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:01:41] 
+[06:01:41] Server Plugins
+[06:01:41] --------------
+[06:01:41]  Loading plugin: crashdetect
+[06:01:41]   CrashDetect v4.18.1 is OK.
+[06:01:41]   Loaded.
+[06:01:41]  Loading plugin: sscanf
+[06:01:41] 
+
+[06:01:41]  ===============================
+
+[06:01:41]       sscanf plugin loaded.     
+
+[06:01:41]          Version:  2.8.1        
+
+[06:01:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:01:41]  ===============================
+
+[06:01:41]   Loaded.
+[06:01:41]  Loading plugin: streamer
+[06:01:41] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[06:01:41]   Loaded.
+[06:01:41]  Loading plugin: filemanager
+[06:01:41] ******************
+[06:01:41] ** FILE MANAGER **
+[06:01:41] **    Loaded    **
+[06:01:41] ** Version 1.5 **
+[06:01:41] ******************
+[06:01:41]   Loaded.
+[06:01:41]  Loaded 4 plugins.
+
+[06:01:41] 
+[06:01:41] Filterscripts
+[06:01:41] ---------------
+[06:01:41]   Loading filterscript 'tstudio.amx'...
+[06:01:42]  
+[06:01:42]  
+[06:01:42]  
+[06:01:42]  ======================================= 
+[06:01:42]  |                                     | 
+[06:01:42]  |        YSI version 3.09.0684        | 
+[06:01:42]  |        By Alex "Y_Less" Cole        | 
+[06:01:42]  |                                     | 
+[06:01:42]  ======================================= 
+[06:01:42]  
+[06:01:42]  
+[06:01:42]  
+[06:01:43] LOADED 9065 texture definitions
+[06:01:43] ----------------------------------------------
+[06:01:43] ----Texture Studio By [uL]Pottus and Crayder--
+[06:01:43] ------------------------------------Loaded----
+[06:01:43]   Loading filterscript 'fsdebug.amx'...
+[06:01:43] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[06:01:43]   * By Simon Campbell *
+  *********************
+[06:01:43]   * Version: 0.5d      *
+  *********************
+[06:01:43]   * -- LOADED         *
+  *********************
+
+[06:01:43]   Loaded 2 filterscripts.
+
+[06:01:43] 
+/*-----------------------------------*\
+[06:01:43] |*=====[TS Base GameMode Loaded]=====*|
+[06:01:43] \*-----------------------------------*/
+
+[06:01:43] Number of vehicle models: 0
+[06:02:17] [connection] 127.0.0.1:58943 requests connection cookie.
+[06:02:18] [connection] incoming connection: 127.0.0.1:58943 id: 0
+[06:02:19] [connection] incoming connection: 127.0.0.1:58944 id: 0
+[06:02:19] [join] casualmind has joined the server (0:127.0.0.1)
+[06:02:19]     /thelp missing command: mtsearch
+[06:02:19] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:05:39] 
+[06:05:39] Server Plugins
+[06:05:39] --------------
+[06:05:39]  Loading plugin: crashdetect
+[06:05:39]   CrashDetect v4.18.1 is OK.
+[06:05:39]   Loaded.
+[06:05:39]  Loading plugin: sscanf
+[06:05:39] 
+
+[06:05:39]  ===============================
+
+[06:05:39]       sscanf plugin loaded.     
+
+[06:05:39]          Version:  2.8.1        
+
+[06:05:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:05:39]  ===============================
+
+[06:05:39]   Loaded.
+[06:05:39]  Loading plugin: streamer
+[06:05:39] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[06:05:39]   Loaded.
+[06:05:39]  Loading plugin: filemanager
+[06:05:39] ******************
+[06:05:39] ** FILE MANAGER **
+[06:05:39] **    Loaded    **
+[06:05:39] ** Version 1.5 **
+[06:05:39] ******************
+[06:05:39]   Loaded.
+[06:05:39]  Loaded 4 plugins.
+
+[06:05:39] 
+[06:05:39] Filterscripts
+[06:05:39] ---------------
+[06:05:39]   Loading filterscript 'tstudio.amx'...
+[06:05:40]  
+[06:05:40]  
+[06:05:40]  
+[06:05:40]  ======================================= 
+[06:05:40]  |                                     | 
+[06:05:40]  |        YSI version 3.09.0684        | 
+[06:05:40]  |        By Alex "Y_Less" Cole        | 
+[06:05:40]  |                                     | 
+[06:05:40]  ======================================= 
+[06:05:40]  
+[06:05:40]  
+[06:05:40]  
+[06:05:40] LOADED 9065 texture definitions
+[06:05:41] ----------------------------------------------
+[06:05:41] ----Texture Studio By [uL]Pottus and Crayder--
+[06:05:41] ------------------------------------Loaded----
+[06:05:41]   Loading filterscript 'fsdebug.amx'...
+[06:05:41] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[06:05:41]   * By Simon Campbell *
+  *********************
+[06:05:41]   * Version: 0.5d      *
+  *********************
+[06:05:41]   * -- LOADED         *
+  *********************
+
+[06:05:41]   Loaded 2 filterscripts.
+
+[06:05:41] 
+/*-----------------------------------*\
+[06:05:41] |*=====[TS Base GameMode Loaded]=====*|
+[06:05:41] \*-----------------------------------*/
+
+[06:05:41] Number of vehicle models: 0
+[06:06:03] [connection] 127.0.0.1:56554 requests connection cookie.
+[06:06:04] [connection] incoming connection: 127.0.0.1:56554 id: 0
+[06:06:14] [connection] incoming connection: 127.0.0.1:56555 id: 0
+[06:06:24] [connection] incoming connection: 127.0.0.1:56556 id: 0
+[06:06:35] [connection] incoming connection: 127.0.0.1:56557 id: 0
+[06:06:45] [connection] incoming connection: 127.0.0.1:56558 id: 0
+[06:06:55] [connection] incoming connection: 127.0.0.1:50393 id: 0
+[06:07:13] [connection] 127.0.0.1:50281 requests connection cookie.
+[06:07:14] [connection] incoming connection: 127.0.0.1:50281 id: 0
+[06:07:24] [connection] incoming connection: 127.0.0.1:50282 id: 0
+[06:07:35] [connection] incoming connection: 127.0.0.1:50283 id: 0
+[06:07:39] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:07:48] 
+[06:07:48] Server Plugins
+[06:07:48] --------------
+[06:07:48]  Loading plugin: crashdetect
+[06:07:48]   CrashDetect v4.18.1 is OK.
+[06:07:48]   Loaded.
+[06:07:48]  Loading plugin: sscanf
+[06:07:48] 
+
+[06:07:48]  ===============================
+
+[06:07:48]       sscanf plugin loaded.     
+
+[06:07:48]          Version:  2.8.1        
+
+[06:07:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:07:48]  ===============================
+
+[06:07:48]   Loaded.
+[06:07:48]  Loading plugin: streamer
+[06:07:48] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[06:07:48]   Loaded.
+[06:07:48]  Loading plugin: filemanager
+[06:07:48] ******************
+[06:07:48] ** FILE MANAGER **
+[06:07:48] **    Loaded    **
+[06:07:48] ** Version 1.5 **
+[06:07:48] ******************
+[06:07:48]   Loaded.
+[06:07:48]  Loaded 4 plugins.
+
+[06:07:48] 
+[06:07:48] Filterscripts
+[06:07:48] ---------------
+[06:07:48]   Loading filterscript 'tstudio.amx'...
+[06:07:48]  
+[06:07:48]  
+[06:07:48]  
+[06:07:48]  ======================================= 
+[06:07:48]  |                                     | 
+[06:07:48]  |        YSI version 3.09.0684        | 
+[06:07:48]  |        By Alex "Y_Less" Cole        | 
+[06:07:48]  |                                     | 
+[06:07:48]  ======================================= 
+[06:07:48]  
+[06:07:48]  
+[06:07:48]  
+[06:07:49] LOADED 9065 texture definitions
+[06:07:49] ----------------------------------------------
+[06:07:49] ----Texture Studio By [uL]Pottus and Crayder--
+[06:07:49] ------------------------------------Loaded----
+[06:07:49]   Loading filterscript 'fsdebug.amx'...
+[06:07:49] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[06:07:49]   * By Simon Campbell *
+  *********************
+[06:07:49]   * Version: 0.5d      *
+  *********************
+[06:07:49]   * -- LOADED         *
+  *********************
+
+[06:07:49]   Loaded 2 filterscripts.
+
+[06:07:49] 
+/*-----------------------------------*\
+[06:07:49] |*=====[TS Base GameMode Loaded]=====*|
+[06:07:49] \*-----------------------------------*/
+
+[06:07:49] Number of vehicle models: 0
+[06:08:03] [connection] 127.0.0.1:63355 requests connection cookie.
+[06:08:04] [connection] incoming connection: 127.0.0.1:63355 id: 0
+[06:08:19] [connection] incoming connection: 127.0.0.1:63356 id: 0
+[06:08:53] [connection] incoming connection: 127.0.0.1:53943 id: 0
+[06:09:03] [connection] incoming connection: 127.0.0.1:53944 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:10:13] 
+[06:10:13] Server Plugins
+[06:10:13] --------------
+[06:10:13]  Loading plugin: crashdetect
+[06:10:13]   CrashDetect v4.18.1 is OK.
+[06:10:13]   Loaded.
+[06:10:13]  Loading plugin: sscanf
+[06:10:13] 
+
+[06:10:13]  ===============================
+
+[06:10:13]       sscanf plugin loaded.     
+
+[06:10:13]          Version:  2.8.1        
+
+[06:10:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:10:13]  ===============================
+
+[06:10:13]   Loaded.
+[06:10:13]  Loading plugin: streamer
+[06:10:13] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[06:10:13]   Loaded.
+[06:10:13]  Loading plugin: filemanager
+[06:10:13] ******************
+[06:10:13] ** FILE MANAGER **
+[06:10:13] **    Loaded    **
+[06:10:13] ** Version 1.5 **
+[06:10:13] ******************
+[06:10:13]   Loaded.
+[06:10:13]  Loaded 4 plugins.
+
+[06:10:13] 
+[06:10:13] Filterscripts
+[06:10:13] ---------------
+[06:10:13]   Loading filterscript 'tstudio.amx'...
+[06:10:14]  
+[06:10:14]  
+[06:10:14]  
+[06:10:14]  ======================================= 
+[06:10:14]  |                                     | 
+[06:10:14]  |        YSI version 3.09.0684        | 
+[06:10:14]  |        By Alex "Y_Less" Cole        | 
+[06:10:14]  |                                     | 
+[06:10:14]  ======================================= 
+[06:10:14]  
+[06:10:14]  
+[06:10:14]  
+[06:10:14] LOADED 9065 texture definitions
+[06:10:14] ----------------------------------------------
+[06:10:14] ----Texture Studio By [uL]Pottus and Crayder--
+[06:10:14] ------------------------------------Loaded----
+[06:10:14]   Loading filterscript 'fsdebug.amx'...
+[06:10:15] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[06:10:15]   * By Simon Campbell *
+  *********************
+[06:10:15]   * Version: 0.5d      *
+  *********************
+[06:10:15]   * -- LOADED         *
+  *********************
+
+[06:10:15]   Loaded 2 filterscripts.
+
+[06:10:15] 
+/*-----------------------------------*\
+[06:10:15] |*=====[TS Base GameMode Loaded]=====*|
+[06:10:15] \*-----------------------------------*/
+
+[06:10:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:13:08] 
+[06:13:08] Server Plugins
+[06:13:08] --------------
+[06:13:08]  Loading plugin: crashdetect
+[06:13:08]   CrashDetect v4.18.1 is OK.
+[06:13:08]   Loaded.
+[06:13:08]  Loading plugin: sscanf
+[06:13:08] 
+
+[06:13:08]  ===============================
+
+[06:13:08]       sscanf plugin loaded.     
+
+[06:13:08]          Version:  2.8.1        
+
+[06:13:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:13:08]  ===============================
+
+[06:13:08]   Loaded.
+[06:13:08]  Loading plugin: streamer
+[06:13:08] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[06:13:08]   Loaded.
+[06:13:08]  Loading plugin: filemanager
+[06:13:08] ******************
+[06:13:08] ** FILE MANAGER **
+[06:13:08] **    Loaded    **
+[06:13:08] ** Version 1.5 **
+[06:13:08] ******************
+[06:13:08]   Loaded.
+[06:13:08]  Loaded 4 plugins.
+
+[06:13:08] 
+[06:13:08] Filterscripts
+[06:13:08] ---------------
+[06:13:08]   Loading filterscript 'tstudio.amx'...
+[06:13:08]  
+[06:13:08]  
+[06:13:08]  
+[06:13:08]  ======================================= 
+[06:13:08]  |                                     | 
+[06:13:08]  |        YSI version 3.09.0684        | 
+[06:13:08]  |        By Alex "Y_Less" Cole        | 
+[06:13:08]  |                                     | 
+[06:13:08]  ======================================= 
+[06:13:08]  
+[06:13:08]  
+[06:13:08]  
+[06:13:09] LOADED 9065 texture definitions
+[06:13:09] ----------------------------------------------
+[06:13:09] ----Texture Studio By [uL]Pottus and Crayder--
+[06:13:09] ------------------------------------Loaded----
+[06:13:09]   Loading filterscript 'fsdebug.amx'...
+[06:13:09] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[06:13:09]   * By Simon Campbell *
+  *********************
+[06:13:09]   * Version: 0.5d      *
+  *********************
+[06:13:09]   * -- LOADED         *
+  *********************
+
+[06:13:09]   Loading filterscript 'int.amx'...
+[06:13:09]   Loaded 3 filterscripts.
+
+[06:13:09] 
+/*-----------------------------------*\
+[06:13:09] |*=====[TS Base GameMode Loaded]=====*|
+[06:13:09] \*-----------------------------------*/
+
+[06:13:09] Number of vehicle models: 0
+[06:13:42] [connection] 127.0.0.1:54187 requests connection cookie.
+[06:13:43] [connection] incoming connection: 127.0.0.1:54187 id: 0
+[06:13:54] [connection] incoming connection: 127.0.0.1:54188 id: 0
+[06:13:54] [connection] incoming connection: 127.0.0.1:54189 id: 0
+[06:13:54] [join] casualmind has joined the server (0:127.0.0.1)
+[06:13:54]     /thelp missing command: mtsearch
+[06:13:54] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[06:32:46] RCON (In-Game): Player #0 (casualmind) has logged in.
+[06:32:48] RCON (In-Game): Player [casualmind] sent command: gmx
+[06:33:01] 
+/*-----------------------------------*\
+[06:33:01] |*=====[TS Base GameMode Loaded]=====*|
+[06:33:01] \*-----------------------------------*/
+
+[06:33:01] Number of vehicle models: 0
+[06:33:01]     /thelp missing command: mtsearch
+[06:33:01] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[06:43:43] [part] casualmind has left the server (0:1)
+[06:44:03] [connection] 127.0.0.1:64352 requests connection cookie.
+[06:44:04] [connection] incoming connection: 127.0.0.1:64352 id: 0
+[06:44:15] [connection] incoming connection: 127.0.0.1:50089 id: 0
+[06:44:25] [connection] incoming connection: 127.0.0.1:57526 id: 0
+[06:44:31] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:44:46] 
+[06:44:46] Server Plugins
+[06:44:46] --------------
+[06:44:46]  Loading plugin: crashdetect
+[06:44:46]   CrashDetect v4.18.1 is OK.
+[06:44:46]   Loaded.
+[06:44:46]  Loading plugin: sscanf
+[06:44:46] 
+
+[06:44:46]  ===============================
+
+[06:44:46]       sscanf plugin loaded.     
+
+[06:44:46]          Version:  2.8.1        
+
+[06:44:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:44:46]  ===============================
+
+[06:44:46]   Loaded.
+[06:44:46]  Loading plugin: streamer
+[06:44:46] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[06:44:46]   Loaded.
+[06:44:46]  Loading plugin: filemanager
+[06:44:46] ******************
+[06:44:46] ** FILE MANAGER **
+[06:44:46] **    Loaded    **
+[06:44:46] ** Version 1.5 **
+[06:44:46] ******************
+[06:44:46]   Loaded.
+[06:44:46]  Loaded 4 plugins.
+
+[06:44:47] 
+[06:44:47] Filterscripts
+[06:44:47] ---------------
+[06:44:47]   Loading filterscript 'tstudio.amx'...
+[06:44:47]  
+[06:44:47]  
+[06:44:47]  
+[06:44:47]  ======================================= 
+[06:44:47]  |                                     | 
+[06:44:47]  |        YSI version 3.09.0684        | 
+[06:44:47]  |        By Alex "Y_Less" Cole        | 
+[06:44:47]  |                                     | 
+[06:44:47]  ======================================= 
+[06:44:47]  
+[06:44:47]  
+[06:44:47]  
+[06:44:47] LOADED 9065 texture definitions
+[06:44:47] ----------------------------------------------
+[06:44:47] ----Texture Studio By [uL]Pottus and Crayder--
+[06:44:47] ------------------------------------Loaded----
+[06:44:47]   Loading filterscript 'fsdebug.amx'...
+[06:44:48] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[06:44:48]   * By Simon Campbell *
+  *********************
+[06:44:48]   * Version: 0.5d      *
+  *********************
+[06:44:48]   * -- LOADED         *
+  *********************
+
+[06:44:48]   Loading filterscript 'int.amx'...
+[06:44:48]   Loaded 3 filterscripts.
+
+[06:44:48] 
+/*-----------------------------------*\
+[06:44:48] |*=====[TS Base GameMode Loaded]=====*|
+[06:44:48] \*-----------------------------------*/
+
+[06:44:48] Number of vehicle models: 0
+[06:45:12] [connection] 127.0.0.1:64610 requests connection cookie.
+[06:45:13] [connection] incoming connection: 127.0.0.1:64610 id: 0
+[06:45:24] [connection] incoming connection: 127.0.0.1:64611 id: 0
+[06:45:24] [connection] incoming connection: 127.0.0.1:64612 id: 0
+[06:45:24] [join] casualmind has joined the server (0:127.0.0.1)
+[06:45:24]     /thelp missing command: mtsearch
+[06:45:24] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[07:43:15] [part] casualmind has left the server (0:0)
+[07:43:52] [connection] 127.0.0.1:63458 requests connection cookie.
+[07:43:53] [connection] incoming connection: 127.0.0.1:63458 id: 0
+[07:44:03] [connection] incoming connection: 127.0.0.1:64696 id: 0
+[07:44:14] [connection] incoming connection: 127.0.0.1:51408 id: 0
+[07:44:14] [connection] incoming connection: 127.0.0.1:57123 id: 0
+[07:44:14] [join] casualmind has joined the server (0:127.0.0.1)
+[07:44:14]     /thelp missing command: mtsearch
+[07:44:14] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[07:53:07] RCON (In-Game): Player #0 (casualmind) has logged in.
+[07:53:14] RCON (In-Game): Player [casualmind] sent command: loadfs int
+[07:53:14]   Filterscript 'int.amx' load failed.
+[07:53:17] RCON (In-Game): Player [casualmind] sent command: loadfs int
+[07:53:17]   Filterscript 'int.amx' load failed.
+[07:53:18] RCON (In-Game): Player [casualmind] sent command: loadfs int
+[07:53:18]   Filterscript 'int.amx' load failed.
+[07:58:30] RCON (In-Game): Player [casualmind] sent command: reloadfs int
+[07:58:30]   Filterscript 'int.amx' unloaded.
+[07:58:32]   Filterscript 'int.amx' loaded.
+[07:58:58] RCON (In-Game): Player [casualmind] sent command: gmx
+[07:58:58] [debug] Server crashed due to an unknown error
+[07:58:59] [debug] Native backtrace:
+[07:58:59] [debug] #0 004714ec in ?? () from samp-server.exe
+[07:58:59] [debug] #1 63c7318d in ?? () from plugins\streamer.DLL
+[07:58:59] [debug] #2 63c6f80e in ?? () from plugins\streamer.DLL
+[07:58:59] [debug] #3 63c5c69e in ?? () from plugins\streamer.DLL
+[07:58:59] [debug] #4 00469a66 in ?? () from samp-server.exe
+[07:58:59] [debug] Registers:
+[07:58:59] [debug] EAX: 00000000 EBX: 01b56f98 ECX: 01b69b98 EDX: 00000000
+[07:58:59] [debug] ESI: 01b5b174 EDI: 0014fdb8 EBP: 00000000 ESP: 0014fe24
+[07:58:59] [debug] EIP: 00469a66 EFLAGS: 00010287
+[07:58:59] [debug] Stack:
+[07:58:59] [debug] ESP+00000000: 77c8d1a0 77c8d150 0048d4db 00000000
+[07:58:59] [debug] ESP+00000020: 00010101 0000000a 00001e61 000001e8
+[07:58:59] [debug] ESP+00000040: 00003531 004c4020 004c401c 00217000
+[07:58:59] [debug] ESP+00000060: 0049d208 004ba2f8 ffffffff 0049b4a1
+[07:58:59] [debug] ESP+00000080: ffffffff 0049cca6 00000001 01b61430
+[07:58:59] [debug] ESP+000000a0: 000023f0 00000002 00000000 00000000
+[07:58:59] [debug] ESP+000000c0: 00000000 00000000 00000000 00000000
+[07:58:59] [debug] ESP+000000e0: 00000000 00000000 00000000 00000000
+[07:58:59] [debug] ESP+00000100: 00000000 00000000 00000000 00000000
+[07:58:59] [debug] ESP+00000120: 00000000 0049cb52 0049cb3a 0049cb3a
+[07:58:59] [debug] ESP+00000140: 00000000 0014feb8 0014f92c 0014ffcc
+[07:58:59] [debug] ESP+00000160: 77c7a424 00217000 77c7a400 af58cdb8
+[07:58:59] [debug] ESP+00000180: 00000000 00000000 00217000 00000000
+[07:58:59] [debug] ESP+000001a0: 0014ffa0 00000000 0014ffe4 77dc68e0
+[07:58:59] [debug] ESP+000001c0: ffffffff 77dd6753 00000000 00000000
+[07:58:59] [debug] ESP+000001e0: 00000020 00000001 0000302c 000000dc
+[07:58:59] [debug] ESP+00000200: 00000001 00000007 00000034 0000017c
+[07:58:59] [debug] ESP+00000220: 00000000 00000000 00000002 1a26ef4e
+[07:58:59] [debug] ESP+00000240: 00000000 f33271ba 0000053c 0000004a
+[07:58:59] [debug] ESP+00000260: 000008cc 00000032 00000900 000002fa
+[07:58:59] [debug] ESP+00000280: 00000c40 00000330 00000000 38505fc8
+[07:58:59] [debug] ESP+000002a0: 00000000 b1280544 00001334 00000056
+[07:58:59] [debug] ESP+000002c0: 000000ec 00000002 00000001 0000017c
+[07:58:59] [debug] ESP+000002e0: 000004b4 00000001 00000003 00001c0c
+[07:58:59] [debug] ESP+00000300: 00000314 00000002 00000005 00002dac
+[07:58:59] [debug] ESP+00000320: 000000cc 00000002 00000007 00002f10
+[07:58:59] [debug] ESP+00000340: 00000028 00000002 0000000b 00003028
+[07:58:59] [debug] ESP+00000360: 00000001 00000001 00000001 00000006
+[07:58:59] [debug] ESP+00000380: 0000005e 0000005e 00000000 00000000
+[07:58:59] [debug] ESP+000003a0: 00000000 00000000 00000000 00000002
+[07:58:59] [debug] ESP+000003c0: 0057005c 006e0069 006f0064 00730077
+[07:58:59] [debug] ESP+000003e0: 00000000 1a26ef4e 0000011c 00000044
+[07:58:59] [debug] Loaded modules:
+[07:58:59] [debug] 00400000 - 00519000 samp-server.exe
+[07:58:59] [debug] 77d30000 - 77ebf000 ntdll.dll
+[07:58:59] [debug] 77c60000 - 77cf8000 KERNEL32.DLL
+[07:58:59] [debug] 74fc0000 - 751a6000 KERNELBASE.dll
+[07:58:59] [debug] 76360000 - 776aa000 SHELL32.dll
+[07:58:59] [debug] 75c60000 - 75d1f000 msvcrt.dll
+[07:58:59] [debug] 754c0000 - 754f9000 cfgmgr32.dll
+[07:58:59] [debug] 747e0000 - 748fd000 ucrtbase.dll
+[07:58:59] [debug] 75d30000 - 75db8000 shcore.dll
+[07:58:59] [debug] 75b90000 - 75c57000 RPCRT4.dll
+[07:58:59] [debug] 77890000 - 77aec000 combase.dll
+[07:58:59] [debug] 74f60000 - 74fb8000 bcryptPrimitives.dll
+[07:58:59] [debug] 74980000 - 74f3a000 windows.storage.dll
+[07:58:59] [debug] 75dc0000 - 75e38000 advapi32.dll
+[07:58:59] [debug] 776c0000 - 77704000 sechost.dll
+[07:58:59] [debug] 77af0000 - 77b35000 shlwapi.dll
+[07:58:59] [debug] 77b60000 - 77b82000 GDI32.dll
+[07:58:59] [debug] 751b0000 - 75317000 gdi32full.dll
+[07:58:59] [debug] 74900000 - 7497d000 msvcp_win.dll
+[07:58:59] [debug] 77710000 - 77884000 USER32.dll
+[07:58:59] [debug] 74f40000 - 74f5b000 win32u.dll
+[07:58:59] [debug] 74740000 - 7474f000 kernel.appcore.dll
+[07:58:59] [debug] 747c0000 - 747d8000 profapi.dll
+[07:58:59] [debug] 74760000 - 747a5000 powrprof.dll
+[07:58:59] [debug] 747b0000 - 747b8000 FLTLIB.DLL
+[07:58:59] [debug] 648c0000 - 648c8000 WSOCK32.dll
+[07:58:59] [debug] 72f10000 - 72f34000 WINMM.dll
+[07:58:59] [debug] 77bf0000 - 77c57000 WS2_32.dll
+[07:58:59] [debug] 72ee0000 - 72f03000 winmmbase.dll
+[07:58:59] [debug] 77d00000 - 77d26000 IMM32.DLL
+[07:58:59] [debug] 62d00000 - 62d50000 crashdetect.DLL
+[07:58:59] [debug] 61590000 - 6164f000 MSVCR100.dll
+[07:58:59] [debug] 5c1b0000 - 5c219000 MSVCP100.dll
+[07:58:59] [debug] 10000000 - 1000d000 sscanf.DLL
+[07:58:59] [debug] 63c50000 - 63c8f000 streamer.DLL
+[07:58:59] [debug] 001d0000 - 001fc000 filemanager.DLL
+[07:58:59] [debug] 58830000 - 588cc000 MSVCP100D.dll
+[07:58:59] [debug] 55e00000 - 55f72000 MSVCR100D.dll
+[07:58:59] [debug] 740d0000 - 74128000 mswsock.dll
+[07:58:59] [debug] 5b100000 - 5b111000 napinsp.dll
+[07:58:59] [debug] 57b10000 - 57b26000 pnrpnsp.dll
+[07:58:59] [debug] 71850000 - 71863000 NLAapi.dll
+[07:58:59] [debug] 5beb0000 - 5bebc000 winrnr.dll
+[07:58:59] [debug] 73ef0000 - 73f7e000 DNSAPI.dll
+[07:58:59] [debug] 776b0000 - 776b7000 NSI.dll
+[07:58:59] [debug] 73ec0000 - 73ef0000 IPHLPAPI.DLL
+[07:58:59] [debug] 6d570000 - 6d5bf000 fwpuclnt.dll
+[07:58:59] [debug] 74350000 - 7436b000 bcrypt.dll
+[07:58:59] [debug] 6ab30000 - 6ab38000 rasadhlp.dll
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:00:08] 
+[08:00:08] Server Plugins
+[08:00:08] --------------
+[08:00:08]  Loading plugin: crashdetect
+[08:00:08]   CrashDetect v4.18.1 is OK.
+[08:00:08]   Loaded.
+[08:00:08]  Loading plugin: sscanf
+[08:00:08] 
+
+[08:00:08]  ===============================
+
+[08:00:08]       sscanf plugin loaded.     
+
+[08:00:08]          Version:  2.8.1        
+
+[08:00:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:00:08]  ===============================
+
+[08:00:08]   Loaded.
+[08:00:08]  Loading plugin: streamer
+[08:00:08] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[08:00:08]   Loaded.
+[08:00:08]  Loading plugin: filemanager
+[08:00:08] ******************
+[08:00:08] ** FILE MANAGER **
+[08:00:08] **    Loaded    **
+[08:00:08] ** Version 1.5 **
+[08:00:08] ******************
+[08:00:08]   Loaded.
+[08:00:08]  Loaded 4 plugins.
+
+[08:00:08] 
+[08:00:08] Filterscripts
+[08:00:08] ---------------
+[08:00:08]   Loading filterscript 'tstudio.amx'...
+[08:00:08]  
+[08:00:08]  
+[08:00:08]  
+[08:00:08]  ======================================= 
+[08:00:08]  |                                     | 
+[08:00:08]  |        YSI version 3.09.0684        | 
+[08:00:08]  |        By Alex "Y_Less" Cole        | 
+[08:00:08]  |                                     | 
+[08:00:08]  ======================================= 
+[08:00:08]  
+[08:00:08]  
+[08:00:08]  
+[08:00:09] LOADED 9065 texture definitions
+[08:00:09] ----------------------------------------------
+[08:00:09] ----Texture Studio By [uL]Pottus and Crayder--
+[08:00:09] ------------------------------------Loaded----
+[08:00:09]   Loading filterscript 'fsdebug.amx'...
+[08:00:09] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[08:00:09]   * By Simon Campbell *
+  *********************
+[08:00:09]   * Version: 0.5d      *
+  *********************
+[08:00:09]   * -- LOADED         *
+  *********************
+
+[08:00:09]   Loading filterscript 'int.amx'...
+[08:00:10]   Loaded 3 filterscripts.
+
+[08:00:10] 
+/*-----------------------------------*\
+[08:00:10] |*=====[TS Base GameMode Loaded]=====*|
+[08:00:10] \*-----------------------------------*/
+
+[08:00:10] Number of vehicle models: 0
+[08:01:06] [connection] 127.0.0.1:58716 requests connection cookie.
+[08:01:07] [connection] incoming connection: 127.0.0.1:58716 id: 0
+[08:01:08] [connection] incoming connection: 127.0.0.1:58717 id: 0
+[08:01:08] [join] casualmind has joined the server (0:127.0.0.1)
+[08:01:08]     /thelp missing command: mtsearch
+[08:01:08] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:23:49] [part] casualmind has left the server (0:1)
+[08:24:14] --- Server Shutting Down.
+[08:24:14] ----------------------------------------------
+[08:24:14] ----Texture Studio By [uL]Pottus and Crayder--
+[08:24:14] ------------------------------------Unloaded--
+[08:24:14] SQLitei Error: (db_query) Invalid persistent database given (80000002).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:39:56] 
+[08:39:56] Server Plugins
+[08:39:56] --------------
+[08:39:56]  Loading plugin: crashdetect
+[08:39:56]   CrashDetect v4.18.1 is OK.
+[08:39:56]   Loaded.
+[08:39:56]  Loading plugin: sscanf
+[08:39:56] 
+
+[08:39:56]  ===============================
+
+[08:39:56]       sscanf plugin loaded.     
+
+[08:39:56]          Version:  2.8.1        
+
+[08:39:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:39:56]  ===============================
+
+[08:39:56]   Loaded.
+[08:39:56]  Loading plugin: streamer
+[08:39:56] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[08:39:56]   Loaded.
+[08:39:56]  Loading plugin: filemanager
+[08:39:56] ******************
+[08:39:56] ** FILE MANAGER **
+[08:39:56] **    Loaded    **
+[08:39:56] ** Version 1.5 **
+[08:39:56] ******************
+[08:39:56]   Loaded.
+[08:39:56]  Loaded 4 plugins.
+
+[08:39:56] 
+[08:39:56] Filterscripts
+[08:39:56] ---------------
+[08:39:56]   Loading filterscript 'tstudio.amx'...
+[08:39:57]  
+[08:39:57]  
+[08:39:57]  
+[08:39:57]  ======================================= 
+[08:39:57]  |                                     | 
+[08:39:57]  |        YSI version 3.09.0684        | 
+[08:39:57]  |        By Alex "Y_Less" Cole        | 
+[08:39:57]  |                                     | 
+[08:39:57]  ======================================= 
+[08:39:57]  
+[08:39:57]  
+[08:39:57]  
+[08:39:57] LOADED 9065 texture definitions
+[08:39:57] ----------------------------------------------
+[08:39:57] ----Texture Studio By [uL]Pottus and Crayder--
+[08:39:57] ------------------------------------Loaded----
+[08:39:57]   Loading filterscript 'fsdebug.amx'...
+[08:39:58] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[08:39:58]   * By Simon Campbell *
+  *********************
+[08:39:58]   * Version: 0.5d      *
+  *********************
+[08:39:58]   * -- LOADED         *
+  *********************
+
+[08:39:58]   Loading filterscript 'int.amx'...
+[08:39:58]   Loaded 3 filterscripts.
+
+[08:39:58] 
+/*-----------------------------------*\
+[08:39:58] |*=====[TS Base GameMode Loaded]=====*|
+[08:39:58] \*-----------------------------------*/
+
+[08:39:58] Number of vehicle models: 0
+[08:40:51] [connection] 127.0.0.1:56158 requests connection cookie.
+[08:40:52] [connection] incoming connection: 127.0.0.1:56158 id: 0
+[08:40:53] [connection] incoming connection: 127.0.0.1:56159 id: 0
+[08:40:53] [join] casualmind has joined the server (0:127.0.0.1)
+[08:40:53]     /thelp missing command: mtsearch
+[08:40:53] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:48:39] [part] casualmind has left the server (0:1)
+[09:02:21] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:32:24] 
+[08:32:24] Server Plugins
+[08:32:24] --------------
+[08:32:24]  Loading plugin: crashdetect
+[08:32:24]   CrashDetect v4.18.1 is OK.
+[08:32:24]   Loaded.
+[08:32:24]  Loading plugin: sscanf
+[08:32:25] 
+
+[08:32:25]  ===============================
+
+[08:32:25]       sscanf plugin loaded.     
+
+[08:32:25]          Version:  2.8.1        
+
+[08:32:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:32:25]  ===============================
+
+[08:32:25]   Loaded.
+[08:32:25]  Loading plugin: streamer
+[08:32:25] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[08:32:25]   Loaded.
+[08:32:25]  Loading plugin: filemanager
+[08:32:25] ******************
+[08:32:25] ** FILE MANAGER **
+[08:32:25] **    Loaded    **
+[08:32:25] ** Version 1.5 **
+[08:32:25] ******************
+[08:32:25]   Loaded.
+[08:32:25]  Loaded 4 plugins.
+
+[08:32:25] 
+[08:32:25] Filterscripts
+[08:32:25] ---------------
+[08:32:25]   Loading filterscript 'tstudio.amx'...
+[08:32:27]  
+[08:32:27]  
+[08:32:27]  
+[08:32:27]  ======================================= 
+[08:32:27]  |                                     | 
+[08:32:27]  |        YSI version 3.09.0684        | 
+[08:32:27]  |        By Alex "Y_Less" Cole        | 
+[08:32:27]  |                                     | 
+[08:32:27]  ======================================= 
+[08:32:27]  
+[08:32:27]  
+[08:32:27]  
+[08:32:28] LOADED 9065 texture definitions
+[08:32:28] ----------------------------------------------
+[08:32:28] ----Texture Studio By [uL]Pottus and Crayder--
+[08:32:28] ------------------------------------Loaded----
+[08:32:28]   Loading filterscript 'fsdebug.amx'...
+[08:32:29] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[08:32:29]   * By Simon Campbell *
+  *********************
+[08:32:29]   * Version: 0.5d      *
+  *********************
+[08:32:29]   * -- LOADED         *
+  *********************
+
+[08:32:29]   Loading filterscript 'int.amx'...
+[08:32:29]   Loaded 3 filterscripts.
+
+[08:32:29] 
+/*-----------------------------------*\
+[08:32:29] |*=====[TS Base GameMode Loaded]=====*|
+[08:32:29] \*-----------------------------------*/
+
+[08:32:29] Number of vehicle models: 0
+[08:33:49] [connection] 127.0.0.1:55385 requests connection cookie.
+[08:33:50] [connection] incoming connection: 127.0.0.1:55385 id: 0
+[08:34:06] [connection] incoming connection: 127.0.0.1:55386 id: 0
+[08:34:16] [connection] incoming connection: 127.0.0.1:55387 id: 0
+[08:34:27] [connection] incoming connection: 127.0.0.1:55388 id: 0
+[08:34:29] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:34:38] 
+[08:34:38] Server Plugins
+[08:34:38] --------------
+[08:34:38]  Loading plugin: crashdetect
+[08:34:38]   CrashDetect v4.18.1 is OK.
+[08:34:38]   Loaded.
+[08:34:38]  Loading plugin: sscanf
+[08:34:38] 
+
+[08:34:38]  ===============================
+
+[08:34:38]       sscanf plugin loaded.     
+
+[08:34:38]          Version:  2.8.1        
+
+[08:34:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:34:38]  ===============================
+
+[08:34:38]   Loaded.
+[08:34:38]  Loading plugin: streamer
+[08:34:38] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[08:34:38]   Loaded.
+[08:34:38]  Loading plugin: filemanager
+[08:34:38] ******************
+[08:34:38] ** FILE MANAGER **
+[08:34:38] **    Loaded    **
+[08:34:38] ** Version 1.5 **
+[08:34:38] ******************
+[08:34:38]   Loaded.
+[08:34:38]  Loaded 4 plugins.
+
+[08:34:38] 
+[08:34:38] Filterscripts
+[08:34:38] ---------------
+[08:34:38]   Loading filterscript 'tstudio.amx'...
+[08:34:39]  
+[08:34:39]  
+[08:34:39]  
+[08:34:39]  ======================================= 
+[08:34:39]  |                                     | 
+[08:34:39]  |        YSI version 3.09.0684        | 
+[08:34:39]  |        By Alex "Y_Less" Cole        | 
+[08:34:39]  |                                     | 
+[08:34:39]  ======================================= 
+[08:34:39]  
+[08:34:39]  
+[08:34:39]  
+[08:34:39] LOADED 9065 texture definitions
+[08:34:39] ----------------------------------------------
+[08:34:39] ----Texture Studio By [uL]Pottus and Crayder--
+[08:34:39] ------------------------------------Loaded----
+[08:34:39]   Loading filterscript 'fsdebug.amx'...
+[08:34:39] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[08:34:39]   * By Simon Campbell *
+  *********************
+[08:34:39]   * Version: 0.5d      *
+  *********************
+[08:34:39]   * -- LOADED         *
+  *********************
+
+[08:34:39]   Loading filterscript 'int.amx'...
+[08:34:40]   Loaded 3 filterscripts.
+
+[08:34:40] 
+/*-----------------------------------*\
+[08:34:40] |*=====[TS Base GameMode Loaded]=====*|
+[08:34:40] \*-----------------------------------*/
+
+[08:34:40] Number of vehicle models: 0
+[08:34:51] [connection] 127.0.0.1:60240 requests connection cookie.
+[08:34:52] [connection] incoming connection: 127.0.0.1:60240 id: 0
+[08:35:02] [connection] incoming connection: 127.0.0.1:60241 id: 0
+[08:35:03] [connection] incoming connection: 127.0.0.1:60242 id: 0
+[08:35:03] [join] casualmind has joined the server (0:127.0.0.1)
+[08:35:03]     /thelp missing command: mtsearch
+[08:35:03] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[08:52:11] [part] casualmind has left the server (0:1)
+[08:55:03] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:17] 
+[18:29:17] Server Plugins
+[18:29:17] --------------
+[18:29:17]  Loading plugin: crashdetect
+[18:29:18]   CrashDetect v4.18.1 is OK.
+[18:29:18]   Loaded.
+[18:29:18]  Loading plugin: sscanf
+[18:29:18] 
+
+[18:29:18]  ===============================
+
+[18:29:18]       sscanf plugin loaded.     
+
+[18:29:18]          Version:  2.8.1        
+
+[18:29:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:29:18]  ===============================
+
+[18:29:18]   Loaded.
+[18:29:18]  Loading plugin: streamer
+[18:29:19] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[18:29:19]   Loaded.
+[18:29:19]  Loading plugin: filemanager
+[18:29:21] ******************
+[18:29:21] ** FILE MANAGER **
+[18:29:21] **    Loaded    **
+[18:29:21] ** Version 1.5 **
+[18:29:21] ******************
+[18:29:21]   Loaded.
+[18:29:21]  Loaded 4 plugins.
+
+[18:29:21] 
+[18:29:21] Filterscripts
+[18:29:21] ---------------
+[18:29:22]   Loading filterscript 'tstudio.amx'...
+[18:29:24]  
+[18:29:24]  
+[18:29:24]  
+[18:29:24]  ======================================= 
+[18:29:24]  |                                     | 
+[18:29:24]  |        YSI version 3.09.0684        | 
+[18:29:24]  |        By Alex "Y_Less" Cole        | 
+[18:29:24]  |                                     | 
+[18:29:24]  ======================================= 
+[18:29:24]  
+[18:29:24]  
+[18:29:24]  
+[18:29:25] LOADED 9065 texture definitions
+[18:29:25] ----------------------------------------------
+[18:29:25] ----Texture Studio By [uL]Pottus and Crayder--
+[18:29:25] ------------------------------------Loaded----
+[18:29:25]   Loading filterscript 'fsdebug.amx'...
+[18:29:26] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[18:29:26]   * By Simon Campbell *
+  *********************
+[18:29:26]   * Version: 0.5d      *
+  *********************
+[18:29:26]   * -- LOADED         *
+  *********************
+
+[18:29:26]   Loading filterscript 'int.amx'...
+[18:29:26]   Loaded 3 filterscripts.
+
+[18:29:26] 
+/*-----------------------------------*\
+[18:29:26] |*=====[TS Base GameMode Loaded]=====*|
+[18:29:26] \*-----------------------------------*/
+
+[18:29:26] Number of vehicle models: 0
+[18:34:00] [connection] 127.0.0.1:60057 requests connection cookie.
+[18:34:01] [connection] incoming connection: 127.0.0.1:60057 id: 0
+[18:34:17] [connection] incoming connection: 127.0.0.1:57945 id: 0
+[18:34:17] [connection] incoming connection: 127.0.0.1:57946 id: 0
+[18:34:17] [join] casualmind has joined the server (0:127.0.0.1)
+[18:34:18]     /thelp missing command: mtsearch
+[18:34:18] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[18:35:20] RCON (In-Game): Player #0 (casualmind) has logged in.
+[19:12:07] RCON (In-Game): Player [casualmind] sent command: gmx
+[19:12:21] 
+/*-----------------------------------*\
+[19:12:21] |*=====[TS Base GameMode Loaded]=====*|
+[19:12:21] \*-----------------------------------*/
+
+[19:12:21] Number of vehicle models: 0
+[19:12:21]     /thelp missing command: mtsearch
+[19:12:21] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[19:12:31] [part] casualmind has left the server (0:0)
+[19:13:32] [connection] 127.0.0.1:55222 requests connection cookie.
+[19:13:33] [connection] incoming connection: 127.0.0.1:55222 id: 0
+[19:13:33] [connection] incoming connection: 127.0.0.1:55223 id: 0
+[19:13:34] [join] casualmind has joined the server (0:127.0.0.1)
+[19:13:34]     /thelp missing command: mtsearch
+[19:13:34] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[19:54:57] [part] casualmind has left the server (0:1)
+[20:16:43] [connection] 127.0.0.1:55070 requests connection cookie.
+[20:16:44] [connection] incoming connection: 127.0.0.1:55070 id: 0
+[20:16:54] [connection] incoming connection: 127.0.0.1:62646 id: 0
+[20:17:05] [connection] incoming connection: 127.0.0.1:62647 id: 0
+[20:17:13] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:17:19] 
+[20:17:19] Server Plugins
+[20:17:19] --------------
+[20:17:19]  Loading plugin: crashdetect
+[20:17:20]   CrashDetect v4.18.1 is OK.
+[20:17:20]   Loaded.
+[20:17:20]  Loading plugin: sscanf
+[20:17:20] 
+
+[20:17:20]  ===============================
+
+[20:17:20]       sscanf plugin loaded.     
+
+[20:17:20]          Version:  2.8.1        
+
+[20:17:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:17:20]  ===============================
+
+[20:17:20]   Loaded.
+[20:17:20]  Loading plugin: streamer
+[20:17:20] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[20:17:20]   Loaded.
+[20:17:20]  Loading plugin: filemanager
+[20:17:21] ******************
+[20:17:21] ** FILE MANAGER **
+[20:17:21] **    Loaded    **
+[20:17:21] ** Version 1.5 **
+[20:17:21] ******************
+[20:17:21]   Loaded.
+[20:17:21]  Loaded 4 plugins.
+
+[20:17:21] 
+[20:17:21] Filterscripts
+[20:17:21] ---------------
+[20:17:21]   Loading filterscript 'tstudio.amx'...
+[20:17:21]  
+[20:17:21]  
+[20:17:21]  
+[20:17:21]  ======================================= 
+[20:17:21]  |                                     | 
+[20:17:21]  |        YSI version 3.09.0684        | 
+[20:17:21]  |        By Alex "Y_Less" Cole        | 
+[20:17:21]  |                                     | 
+[20:17:21]  ======================================= 
+[20:17:21]  
+[20:17:21]  
+[20:17:21]  
+[20:17:21] LOADED 9065 texture definitions
+[20:17:22] ----------------------------------------------
+[20:17:22] ----Texture Studio By [uL]Pottus and Crayder--
+[20:17:22] ------------------------------------Loaded----
+[20:17:22]   Loading filterscript 'fsdebug.amx'...
+[20:17:22] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[20:17:22]   * By Simon Campbell *
+  *********************
+[20:17:22]   * Version: 0.5d      *
+  *********************
+[20:17:22]   * -- LOADED         *
+  *********************
+
+[20:17:22]   Loading filterscript 'int.amx'...
+[20:17:22]   Loaded 3 filterscripts.
+
+[20:17:22] 
+/*-----------------------------------*\
+[20:17:22] |*=====[TS Base GameMode Loaded]=====*|
+[20:17:22] \*-----------------------------------*/
+
+[20:17:22] Number of vehicle models: 0
+[20:18:25] [connection] 127.0.0.1:63016 requests connection cookie.
+[20:18:26] [connection] incoming connection: 127.0.0.1:63016 id: 0
+[20:18:37] [connection] incoming connection: 127.0.0.1:63018 id: 0
+[20:18:47] [connection] incoming connection: 127.0.0.1:63019 id: 0
+[20:19:02] [connection] incoming connection: 127.0.0.1:63020 id: 0
+[20:19:13] [connection] incoming connection: 127.0.0.1:63021 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:19:24] 
+[20:19:24] Server Plugins
+[20:19:24] --------------
+[20:19:24]  Loading plugin: crashdetect
+[20:19:24]   CrashDetect v4.18.1 is OK.
+[20:19:24]   Loaded.
+[20:19:24]  Loading plugin: sscanf
+[20:19:24] 
+
+[20:19:24]  ===============================
+
+[20:19:24]       sscanf plugin loaded.     
+
+[20:19:24]          Version:  2.8.1        
+
+[20:19:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:19:24]  ===============================
+
+[20:19:24]   Loaded.
+[20:19:24]  Loading plugin: streamer
+[20:19:24] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[20:19:24]   Loaded.
+[20:19:24]  Loading plugin: filemanager
+[20:19:24] ******************
+[20:19:24] ** FILE MANAGER **
+[20:19:24] **    Loaded    **
+[20:19:24] ** Version 1.5 **
+[20:19:24] ******************
+[20:19:24]   Loaded.
+[20:19:24]  Loaded 4 plugins.
+
+[20:19:24] 
+[20:19:24] Filterscripts
+[20:19:24] ---------------
+[20:19:24]   Loading filterscript 'tstudio.amx'...
+[20:19:25]  
+[20:19:25]  
+[20:19:25]  
+[20:19:25]  ======================================= 
+[20:19:25]  |                                     | 
+[20:19:25]  |        YSI version 3.09.0684        | 
+[20:19:25]  |        By Alex "Y_Less" Cole        | 
+[20:19:25]  |                                     | 
+[20:19:25]  ======================================= 
+[20:19:25]  
+[20:19:25]  
+[20:19:25]  
+[20:19:25] LOADED 9065 texture definitions
+[20:19:25] ----------------------------------------------
+[20:19:25] ----Texture Studio By [uL]Pottus and Crayder--
+[20:19:25] ------------------------------------Loaded----
+[20:19:25]   Loading filterscript 'fsdebug.amx'...
+[20:19:25] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[20:19:25]   * By Simon Campbell *
+  *********************
+[20:19:25]   * Version: 0.5d      *
+  *********************
+[20:19:25]   * -- LOADED         *
+  *********************
+
+[20:19:25]   Loading filterscript 'int.amx'...
+[20:19:26]   Loaded 3 filterscripts.
+
+[20:19:26] 
+/*-----------------------------------*\
+[20:19:26] |*=====[TS Base GameMode Loaded]=====*|
+[20:19:26] \*-----------------------------------*/
+
+[20:19:26] Number of vehicle models: 0
+[20:19:56] [connection] 127.0.0.1:60079 requests connection cookie.
+[20:19:57] [connection] incoming connection: 127.0.0.1:60079 id: 0
+[20:19:57] [connection] incoming connection: 127.0.0.1:60081 id: 0
+[20:19:58] [join] casualmind has joined the server (0:127.0.0.1)
+[20:19:58]     /thelp missing command: mtsearch
+[20:19:58] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[20:36:15] [part] casualmind has left the server (0:1)
+[20:38:29] [connection] 127.0.0.1:51255 requests connection cookie.
+[20:38:30] [connection] incoming connection: 127.0.0.1:51255 id: 0
+[20:38:31] [connection] incoming connection: 127.0.0.1:51256 id: 0
+[20:38:31] [join] casualmind has joined the server (0:127.0.0.1)
+[20:38:31]     /thelp missing command: mtsearch
+[20:38:31] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[20:45:53] [part] casualmind has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:02:17] 
+[19:02:17] Server Plugins
+[19:02:17] --------------
+[19:02:17]  Loading plugin: crashdetect
+[19:02:18]   CrashDetect v4.18.1 is OK.
+[19:02:18]   Loaded.
+[19:02:18]  Loading plugin: sscanf
+[19:02:18] 
+
+[19:02:18]  ===============================
+
+[19:02:18]       sscanf plugin loaded.     
+
+[19:02:18]          Version:  2.8.1        
+
+[19:02:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:02:18]  ===============================
+
+[19:02:18]   Loaded.
+[19:02:18]  Loading plugin: streamer
+[19:02:18] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[19:02:18]   Loaded.
+[19:02:18]  Loading plugin: filemanager
+[19:02:18] ******************
+[19:02:18] ** FILE MANAGER **
+[19:02:18] **    Loaded    **
+[19:02:18] ** Version 1.5 **
+[19:02:18] ******************
+[19:02:18]   Loaded.
+[19:02:18]  Loaded 4 plugins.
+
+[19:02:18] 
+[19:02:18] Filterscripts
+[19:02:18] ---------------
+[19:02:18]   Loading filterscript 'tstudio.amx'...
+[19:02:19]  
+[19:02:19]  
+[19:02:19]  
+[19:02:19]  ======================================= 
+[19:02:19]  |                                     | 
+[19:02:19]  |        YSI version 3.09.0684        | 
+[19:02:19]  |        By Alex "Y_Less" Cole        | 
+[19:02:19]  |                                     | 
+[19:02:19]  ======================================= 
+[19:02:19]  
+[19:02:19]  
+[19:02:19]  
+[19:02:20] LOADED 9065 texture definitions
+[19:02:20] ----------------------------------------------
+[19:02:20] ----Texture Studio By [uL]Pottus and Crayder--
+[19:02:20] ------------------------------------Loaded----
+[19:02:20]   Loading filterscript 'fsdebug.amx'...
+[19:02:20] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[19:02:20]   * By Simon Campbell *
+  *********************
+[19:02:20]   * Version: 0.5d      *
+  *********************
+[19:02:20]   * -- LOADED         *
+  *********************
+
+[19:02:20]   Loading filterscript 'int.amx'...
+[19:02:20]   Loaded 3 filterscripts.
+
+[19:02:20] 
+/*-----------------------------------*\
+[19:02:20] |*=====[TS Base GameMode Loaded]=====*|
+[19:02:20] \*-----------------------------------*/
+
+[19:02:20] Number of vehicle models: 0
+[19:02:58] [connection] 127.0.0.1:58457 requests connection cookie.
+[19:02:59] [connection] incoming connection: 127.0.0.1:58457 id: 0
+[19:03:09] [connection] incoming connection: 127.0.0.1:54510 id: 0
+[19:03:20] [connection] incoming connection: 127.0.0.1:54511 id: 0
+[19:03:30] [connection] incoming connection: 127.0.0.1:54512 id: 0
+[19:03:40] [connection] incoming connection: 127.0.0.1:54513 id: 0
+[19:03:51] [connection] incoming connection: 127.0.0.1:54514 id: 0
+[19:04:01] [connection] 127.0.0.1:54515 requests connection cookie.
+[19:04:02] [connection] incoming connection: 127.0.0.1:54515 id: 0
+[19:04:12] [connection] incoming connection: 127.0.0.1:54516 id: 0
+[19:04:22] [connection] incoming connection: 127.0.0.1:52283 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:04:37] 
+[19:04:37] Server Plugins
+[19:04:37] --------------
+[19:04:37]  Loading plugin: crashdetect
+[19:04:37]   CrashDetect v4.18.1 is OK.
+[19:04:37]   Loaded.
+[19:04:37]  Loading plugin: sscanf
+[19:04:37] 
+
+[19:04:37]  ===============================
+
+[19:04:37]       sscanf plugin loaded.     
+
+[19:04:37]          Version:  2.8.1        
+
+[19:04:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:04:37]  ===============================
+
+[19:04:37]   Loaded.
+[19:04:37]  Loading plugin: streamer
+[19:04:37] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[19:04:37]   Loaded.
+[19:04:37]  Loading plugin: filemanager
+[19:04:37] ******************
+[19:04:37] ** FILE MANAGER **
+[19:04:37] **    Loaded    **
+[19:04:37] ** Version 1.5 **
+[19:04:37] ******************
+[19:04:37]   Loaded.
+[19:04:37]  Loaded 4 plugins.
+
+[19:04:37] 
+[19:04:37] Filterscripts
+[19:04:37] ---------------
+[19:04:37]   Loading filterscript 'tstudio.amx'...
+[19:04:37]  
+[19:04:37]  
+[19:04:37]  
+[19:04:37]  ======================================= 
+[19:04:37]  |                                     | 
+[19:04:37]  |        YSI version 3.09.0684        | 
+[19:04:37]  |        By Alex "Y_Less" Cole        | 
+[19:04:37]  |                                     | 
+[19:04:37]  ======================================= 
+[19:04:37]  
+[19:04:37]  
+[19:04:37]  
+[19:04:37] LOADED 9065 texture definitions
+[19:04:37] ----------------------------------------------
+[19:04:37] ----Texture Studio By [uL]Pottus and Crayder--
+[19:04:37] ------------------------------------Loaded----
+[19:04:37]   Loading filterscript 'fsdebug.amx'...
+[19:04:38] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[19:04:38]   * By Simon Campbell *
+  *********************
+[19:04:38]   * Version: 0.5d      *
+  *********************
+[19:04:38]   * -- LOADED         *
+  *********************
+
+[19:04:38]   Loading filterscript 'int.amx'...
+[19:04:38]   Loaded 3 filterscripts.
+
+[19:04:38] 
+/*-----------------------------------*\
+[19:04:38] |*=====[TS Base GameMode Loaded]=====*|
+[19:04:38] \*-----------------------------------*/
+
+[19:04:38] Number of vehicle models: 0
+[19:04:48] [connection] 127.0.0.1:55954 requests connection cookie.
+[19:04:49] [connection] incoming connection: 127.0.0.1:55954 id: 0
+[19:04:50] [connection] incoming connection: 127.0.0.1:55955 id: 0
+[19:04:50] [join] casualmind has joined the server (0:127.0.0.1)
+[19:04:50]     /thelp missing command: mtsearch
+[19:04:50] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[19:05:49] [part] casualmind has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:21:54] 
+[23:21:54] Server Plugins
+[23:21:54] --------------
+[23:21:54]  Loading plugin: crashdetect
+[23:21:55]   CrashDetect v4.18.1 is OK.
+[23:21:55]   Loaded.
+[23:21:55]  Loading plugin: sscanf
+[23:21:55] 
+
+[23:21:55]  ===============================
+
+[23:21:55]       sscanf plugin loaded.     
+
+[23:21:55]          Version:  2.8.1        
+
+[23:21:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:21:55]  ===============================
+
+[23:21:55]   Loaded.
+[23:21:55]  Loading plugin: streamer
+[23:21:55] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[23:21:55]   Loaded.
+[23:21:55]  Loading plugin: filemanager
+[23:21:57] ******************
+[23:21:57] ** FILE MANAGER **
+[23:21:57] **    Loaded    **
+[23:21:57] ** Version 1.5 **
+[23:21:57] ******************
+[23:21:57]   Loaded.
+[23:21:57]  Loaded 4 plugins.
+
+[23:21:57] 
+[23:21:57] Filterscripts
+[23:21:57] ---------------
+[23:21:57]   Loading filterscript 'tstudio.amx'...
+[23:22:01]  
+[23:22:01]  
+[23:22:01]  
+[23:22:01]  ======================================= 
+[23:22:01]  |                                     | 
+[23:22:01]  |        YSI version 3.09.0684        | 
+[23:22:01]  |        By Alex "Y_Less" Cole        | 
+[23:22:01]  |                                     | 
+[23:22:01]  ======================================= 
+[23:22:01]  
+[23:22:01]  
+[23:22:01]  
+[23:22:01] LOADED 9065 texture definitions
+[23:22:02] ----------------------------------------------
+[23:22:02] ----Texture Studio By [uL]Pottus and Crayder--
+[23:22:02] ------------------------------------Loaded----
+[23:22:02]   Loading filterscript 'fsdebug.amx'...
+[23:22:02] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[23:22:02]   * By Simon Campbell *
+  *********************
+[23:22:02]   * Version: 0.5d      *
+  *********************
+[23:22:02]   * -- LOADED         *
+  *********************
+
+[23:22:02]   Loading filterscript 'int.amx'...
+[23:22:02]   Loaded 3 filterscripts.
+
+[23:22:02] 
+/*-----------------------------------*\
+[23:22:02] |*=====[TS Base GameMode Loaded]=====*|
+[23:22:02] \*-----------------------------------*/
+
+[23:22:02] Number of vehicle models: 0
+[23:23:47] [connection] 127.0.0.1:58244 requests connection cookie.
+[23:23:48] [connection] incoming connection: 127.0.0.1:58244 id: 0
+[23:24:17] [connection] 127.0.0.1:60470 requests connection cookie.
+[23:24:18] [connection] incoming connection: 127.0.0.1:60470 id: 0
+[23:24:19] [connection] incoming connection: 127.0.0.1:60471 id: 0
+[23:24:19] [join] Bianca_Belladina has joined the server (0:127.0.0.1)
+[23:24:19]     /thelp missing command: mtsearch
+[23:24:19] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[23:33:13] [part] Bianca_Belladina has left the server (0:1)
+[23:34:59] [connection] 127.0.0.1:51669 requests connection cookie.
+[23:35:01] [connection] incoming connection: 127.0.0.1:51669 id: 0
+[23:35:11] [connection] incoming connection: 127.0.0.1:51670 id: 0
+[23:35:32] [connection] 127.0.0.1:51673 requests connection cookie.
+[23:35:33] [connection] incoming connection: 127.0.0.1:51673 id: 0
+[23:35:44] [connection] incoming connection: 127.0.0.1:51675 id: 0
+[23:35:59] [connection] incoming connection: 127.0.0.1:51676 id: 0
+[23:36:14] [connection] incoming connection: 127.0.0.1:51677 id: 0
+[23:36:25] [connection] incoming connection: 127.0.0.1:62529 id: 0
+[23:37:49] [connection] 127.0.0.1:60038 requests connection cookie.
+[23:37:50] [connection] incoming connection: 127.0.0.1:60038 id: 0
+[23:37:51] [connection] incoming connection: 127.0.0.1:60039 id: 0
+[23:37:51] [join] Bianca_Belladina has joined the server (0:127.0.0.1)
+[23:37:51]     /thelp missing command: mtsearch
+[23:37:51] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[23:38:19] [part] Bianca_Belladina has left the server (0:1)
+[23:38:22] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:54] 
+[23:38:54] Server Plugins
+[23:38:54] --------------
+[23:38:54]  Loading plugin: crashdetect
+[23:38:54]   CrashDetect v4.18.1 is OK.
+[23:38:54]   Loaded.
+[23:38:54]  Loading plugin: sscanf
+[23:38:54] 
+
+[23:38:54]  ===============================
+
+[23:38:54]       sscanf plugin loaded.     
+
+[23:38:54]          Version:  2.8.1        
+
+[23:38:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:38:54]  ===============================
+
+[23:38:54]   Loaded.
+[23:38:54]  Loading plugin: streamer
+[23:38:54] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[23:38:54]   Loaded.
+[23:38:54]  Loading plugin: filemanager
+[23:38:55] ******************
+[23:38:55] ** FILE MANAGER **
+[23:38:55] **    Loaded    **
+[23:38:55] ** Version 1.5 **
+[23:38:55] ******************
+[23:38:55]   Loaded.
+[23:38:55]  Loaded 4 plugins.
+
+[23:38:55] 
+[23:38:55] Filterscripts
+[23:38:55] ---------------
+[23:38:55]   Loading filterscript 'tstudio.amx'...
+[23:38:57]  
+[23:38:57]  
+[23:38:57]  
+[23:38:57]  ======================================= 
+[23:38:57]  |                                     | 
+[23:38:57]  |        YSI version 3.09.0684        | 
+[23:38:57]  |        By Alex "Y_Less" Cole        | 
+[23:38:57]  |                                     | 
+[23:38:57]  ======================================= 
+[23:38:57]  
+[23:38:57]  
+[23:38:57]  
+[23:38:57] LOADED 9065 texture definitions
+[23:38:57] ----------------------------------------------
+[23:38:57] ----Texture Studio By [uL]Pottus and Crayder--
+[23:38:57] ------------------------------------Loaded----
+[23:38:57]   Loading filterscript 'fsdebug.amx'...
+[23:38:57] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[23:38:57]   * By Simon Campbell *
+  *********************
+[23:38:57]   * Version: 0.5d      *
+  *********************
+[23:38:57]   * -- LOADED         *
+  *********************
+
+[23:38:57]   Loading filterscript 'int.amx'...
+[23:38:57]   Loaded 3 filterscripts.
+
+[23:38:58] 
+/*-----------------------------------*\
+[23:38:58] |*=====[TS Base GameMode Loaded]=====*|
+[23:38:58] \*-----------------------------------*/
+
+[23:38:58] Number of vehicle models: 0
+[23:55:49] [connection] 127.0.0.1:49488 requests connection cookie.
+[23:55:50] [connection] incoming connection: 127.0.0.1:49488 id: 0
+[23:56:01] [connection] incoming connection: 127.0.0.1:49490 id: 0
+[23:56:11] [connection] incoming connection: 127.0.0.1:49491 id: 0
+[23:56:22] [connection] incoming connection: 127.0.0.1:49492 id: 0
+[23:56:32] [connection] incoming connection: 127.0.0.1:49493 id: 0
+[23:56:41] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:57:00] 
+[23:57:00] Server Plugins
+[23:57:00] --------------
+[23:57:00]  Loading plugin: crashdetect
+[23:57:00]   CrashDetect v4.18.1 is OK.
+[23:57:00]   Loaded.
+[23:57:00]  Loading plugin: sscanf
+[23:57:00] 
+
+[23:57:00]  ===============================
+
+[23:57:00]       sscanf plugin loaded.     
+
+[23:57:00]          Version:  2.8.1        
+
+[23:57:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:57:00]  ===============================
+
+[23:57:00]   Loaded.
+[23:57:00]  Loading plugin: streamer
+[23:57:00] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[23:57:00]   Loaded.
+[23:57:00]  Loading plugin: filemanager
+[23:57:00] ******************
+[23:57:00] ** FILE MANAGER **
+[23:57:00] **    Loaded    **
+[23:57:00] ** Version 1.5 **
+[23:57:00] ******************
+[23:57:00]   Loaded.
+[23:57:00]  Loaded 4 plugins.
+
+[23:57:00] 
+[23:57:00] Filterscripts
+[23:57:00] ---------------
+[23:57:00]   Loading filterscript 'tstudio.amx'...
+[23:57:01]  
+[23:57:01]  
+[23:57:01]  
+[23:57:01]  ======================================= 
+[23:57:01]  |                                     | 
+[23:57:01]  |        YSI version 3.09.0684        | 
+[23:57:01]  |        By Alex "Y_Less" Cole        | 
+[23:57:01]  |                                     | 
+[23:57:01]  ======================================= 
+[23:57:01]  
+[23:57:01]  
+[23:57:01]  
+[23:57:01] LOADED 9065 texture definitions
+[23:57:01] ----------------------------------------------
+[23:57:01] ----Texture Studio By [uL]Pottus and Crayder--
+[23:57:01] ------------------------------------Loaded----
+[23:57:01]   Loading filterscript 'fsdebug.amx'...
+[23:57:01] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[23:57:01]   * By Simon Campbell *
+  *********************
+[23:57:01]   * Version: 0.5d      *
+  *********************
+[23:57:01]   * -- LOADED         *
+  *********************
+
+[23:57:01]   Loading filterscript 'int.amx'...
+[23:57:02]   Loaded 3 filterscripts.
+
+[23:57:02] 
+/*-----------------------------------*\
+[23:57:02] |*=====[TS Base GameMode Loaded]=====*|
+[23:57:02] \*-----------------------------------*/
+
+[23:57:02] Number of vehicle models: 0
+[23:57:25] [connection] 127.0.0.1:62985 requests connection cookie.
+[23:57:26] [connection] incoming connection: 127.0.0.1:62985 id: 0
+[23:57:41] [connection] incoming connection: 127.0.0.1:62986 id: 0
+[23:57:52] [connection] incoming connection: 127.0.0.1:52366 id: 0
+[23:58:28] [connection] 127.0.0.1:58153 requests connection cookie.
+[23:58:29] [connection] incoming connection: 127.0.0.1:58153 id: 0
+[23:58:40] [connection] incoming connection: 127.0.0.1:58154 id: 0
+[00:01:44] [connection] 127.0.0.1:49703 requests connection cookie.
+[00:01:45] [connection] incoming connection: 127.0.0.1:49703 id: 0
+[00:01:46] [connection] incoming connection: 127.0.0.1:49704 id: 0
+[00:01:46] [join] Bianca_Belladina has joined the server (0:127.0.0.1)
+[00:01:46]     /thelp missing command: mtsearch
+[00:01:46] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[00:10:43] [part] Bianca_Belladina has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:28] 
+[23:47:28] Server Plugins
+[23:47:28] --------------
+[23:47:28]  Loading plugin: crashdetect
+[23:47:34]   CrashDetect v4.18.1 is OK.
+[23:47:34]   Loaded.
+[23:47:34]  Loading plugin: sscanf
+[23:47:36] 
+
+[23:47:36]  ===============================
+
+[23:47:36]       sscanf plugin loaded.     
+
+[23:47:36]          Version:  2.8.1        
+
+[23:47:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:47:36]  ===============================
+
+[23:47:36]   Loaded.
+[23:47:36]  Loading plugin: streamer
+[23:47:38] 
+
+*** Streamer Plugin v2.7.2 by Incognito loaded ***
+
+[23:47:38]   Loaded.
+[23:47:38]  Loading plugin: filemanager
+[23:47:40] ******************
+[23:47:40] ** FILE MANAGER **
+[23:47:40] **    Loaded    **
+[23:47:40] ** Version 1.5 **
+[23:47:40] ******************
+[23:47:40]   Loaded.
+[23:47:40]  Loaded 4 plugins.
+
+[23:47:40] 
+[23:47:40] Filterscripts
+[23:47:40] ---------------
+[23:47:40]   Loading filterscript 'tstudio.amx'...
+[23:47:43]  
+[23:47:43]  
+[23:47:43]  
+[23:47:43]  ======================================= 
+[23:47:43]  |                                     | 
+[23:47:43]  |        YSI version 3.09.0684        | 
+[23:47:43]  |        By Alex "Y_Less" Cole        | 
+[23:47:43]  |                                     | 
+[23:47:43]  ======================================= 
+[23:47:43]  
+[23:47:43]  
+[23:47:43]  
+[23:47:44] LOADED 9065 texture definitions
+[23:47:44] ----------------------------------------------
+[23:47:44] ----Texture Studio By [uL]Pottus and Crayder--
+[23:47:44] ------------------------------------Loaded----
+[23:47:44]   Loading filterscript 'fsdebug.amx'...
+[23:47:44] 
+  *********************
+  * SA:MP DEBUG 0.2   *
+[23:47:44]   * By Simon Campbell *
+  *********************
+[23:47:44]   * Version: 0.5d      *
+  *********************
+[23:47:44]   * -- LOADED         *
+  *********************
+
+[23:47:44]   Loading filterscript 'int.amx'...
+[23:47:44]   Loaded 3 filterscripts.
+
+[23:47:44] 
+/*-----------------------------------*\
+[23:47:44] |*=====[TS Base GameMode Loaded]=====*|
+[23:47:44] \*-----------------------------------*/
+
+[23:47:44] Number of vehicle models: 0
+[23:49:27] [connection] 127.0.0.1:63009 requests connection cookie.
+[23:49:28] [connection] incoming connection: 127.0.0.1:63009 id: 0
+[23:49:29] [connection] incoming connection: 127.0.0.1:63010 id: 0
+[23:49:29] [join] casualmind has joined the server (0:127.0.0.1)
+[23:49:29]     /thelp missing command: mtsearch
+[23:49:29] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to Crayder on SA-MP Discord if this message ever shows)
+[00:04:36] [part] casualmind has left the server (0:1)
+[00:04:55] --- Server Shutting Down.
